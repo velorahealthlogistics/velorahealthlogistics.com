@@ -1,0 +1,24 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background square -->
+  <rect width="400" height="400" rx="20" fill="#3A4A3C"/>
+  <!-- Outer circle -->
+  <circle cx="200" cy="200" r="162" stroke="#C4A86A" stroke-width="2.5" fill="none"/>
+  <!-- Middle circle -->
+  <circle cx="200" cy="200" r="124" stroke="#8AAB8C" stroke-width="1" fill="none" opacity="0.4"/>
+  <!-- Inner circle -->
+  <circle cx="200" cy="200" r="88" stroke="#8AAB8C" stroke-width="0.6" fill="none" opacity="0.2"/>
+  <!-- Vertical bar -->
+  <rect x="178" y="90" width="44" height="220" rx="7" fill="#8AAB8C" opacity="0.95"/>
+  <!-- Horizontal bar -->
+  <rect x="90" y="178" width="220" height="44" rx="7" fill="#8AAB8C" opacity="0.95"/>
+  <!-- Gold center circle -->
+  <circle cx="200" cy="200" r="28" fill="#C4A86A"/>
+  <circle cx="200" cy="200" r="11" fill="#3A4A3C"/>
+  <!-- Cardinal tick marks -->
+  <line x1="200" y1="34" x2="200" y2="58" stroke="#C4A86A" stroke-width="2.5" opacity="0.65"/>
+  <line x1="200" y1="342" x2="200" y2="366" stroke="#C4A86A" stroke-width="2.5" opacity="0.65"/>
+  <line x1="34" y1="200" x2="58" y2="200" stroke="#C4A86A" stroke-width="2.5" opacity="0.65"/>
+  <line x1="342" y1="200" x2="366" y2="200" stroke="#C4A86A" stroke-width="2.5" opacity="0.65"/>
+  <!-- VELORA text bottom -->
+  <text x="200" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#8AAB8C" letter-spacing="6">VELORA</text>
+</svg>
